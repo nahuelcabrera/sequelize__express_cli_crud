@@ -1,0 +1,16 @@
+{
+  "name": "sequelize_cli_crud",
+  "version": "1.0.0",
+  "description": "a sequelize practice project with commands ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.9.0",
+    "sequelize-cli": "^6.3.0",
+    "sqlite3": "^5.0.2"
+  }
+}
